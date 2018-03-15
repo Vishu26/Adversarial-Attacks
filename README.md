@@ -14,6 +14,7 @@ The goal of the defense is to build machine learning classifier which is robust 
 
 ## References
 
+### EXPLORING THE SPACE OF BLACK-BOX ATTACKS ON DEEP NEURAL NETWORKS - [pdf](https://openreview.net/pdf?id=SkF2D7g0b)
 ### Adversarial Examples: Attacks and Defenses for Deep Learning - [pdf](https://arxiv.org/pdf/1712.07107.pdf)
 ### Practical Black-Box Attacks against Machine Learning - [pdf](https://arxiv.org/pdf/1602.02697.pdf)
 
