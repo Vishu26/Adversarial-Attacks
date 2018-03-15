@@ -12,6 +12,11 @@ The goal of the targeted attack is to slightly modify source image in a way that
 
 The goal of the defense is to build machine learning classifier which is robust to adversarial example, i.e. can classify adversarial images correctly.
 
+## References
+
+### Adversarial Examples: Attacks and Defenses for Deep Learning - [pdf](https://arxiv.org/pdf/1712.07107.pdf)
+### Practical Black-Box Attacks against Machine Learning - [pdf](https://arxiv.org/pdf/1602.02697.pdf)
+
 ## Examples
 
 ![alt text](Example/ex0.png)
